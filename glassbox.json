@@ -1,0 +1,106 @@
+{
+  "slug": "auroraclear",
+  "box": 237,
+  "date": "2026-12-04",
+  "title": "AuroraClear",
+  "question": "How do the northern lights work?",
+  "hook": "Every northern light starts as a wind from the Sun. Follow its charged particles through Earth's magnetic shield, down to the poles, and see why oxygen glows green low down and red high up.",
+  "thumbText": "HOW AURORAS WORK",
+  "field": "space",
+  "minutes": 15,
+  "tags": [
+    "aurora",
+    "northern lights",
+    "space weather",
+    "magnetosphere",
+    "solar wind",
+    "physics"
+  ],
+  "explainer": [
+    {
+      "title": "A wind from the Sun",
+      "text": "The Sun constantly blows out a thin stream of charged particles, the solar wind. It moves at roughly 250 to 800 km/s and takes a few days to reach Earth. Bursts called coronal mass ejections can be faster."
+    },
+    {
+      "title": "A magnetic shield",
+      "text": "Earth's magnetic field holds the wind off. It squeezes the Sun side into a bubble about 10 Earth radii wide and stretches the night side into a long tail."
+    },
+    {
+      "title": "Spiral and bounce",
+      "text": "Charged particles spiral around field lines and bounce between the poles. Those that travel nearly along a line fall into the atmosphere instead."
+    },
+    {
+      "title": "Opening the door",
+      "text": "When the wind's magnetic field points south, it reconnects with Earth's. Energy flows in, and particles are guided down the field into rings around the magnetic poles, the auroral ovals."
+    },
+    {
+      "title": "Excite, then glow",
+      "text": "Electrons hit oxygen and nitrogen 100 to 300 km up. The atoms take the energy and give it back as light: green from oxygen near 100 to 150 km, red from oxygen above about 200 km, blue and violet from nitrogen."
+    },
+    {
+      "title": "Why red is high",
+      "text": "Oxygen's red-line state waits about 110 seconds before it can glow. Low down, collisions kill it first. Only in thin air can it shine. Big storms push the lights toward the equator and can disturb satellites and power grids."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Solar wind",
+      "def": "A constant stream of charged particles, mostly protons and electrons, flowing out of the Sun."
+    },
+    {
+      "term": "Coronal mass ejection",
+      "def": "A burst of plasma and magnetic field thrown out of the Sun, often faster than the ordinary wind."
+    },
+    {
+      "term": "Magnetosphere",
+      "def": "The region of space dominated by Earth's magnetic field, shaped by the solar wind."
+    },
+    {
+      "term": "Bow shock",
+      "def": "The place where the supersonic solar wind slows abruptly in front of the magnetosphere."
+    },
+    {
+      "term": "Pitch angle",
+      "def": "The angle between a charged particle's velocity and the magnetic field. Small angles reach the atmosphere."
+    },
+    {
+      "term": "Magnetic reconnection",
+      "def": "Oppositely directed field lines break and rejoin, letting solar wind energy into Earth's field."
+    },
+    {
+      "term": "Auroral oval",
+      "def": "The ring around each magnetic pole where aurora is most often seen."
+    },
+    {
+      "term": "Excitation and emission",
+      "def": "An atom first takes up energy from a collision, then releases it as light of one wavelength."
+    },
+    {
+      "term": "Quenching",
+      "def": "An excited atom losing its energy to a collision as heat before it can emit light."
+    },
+    {
+      "term": "Kp index",
+      "def": "A 0 to 9 scale of how disturbed Earth's magnetic field is."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "auroraclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
